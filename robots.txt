@@ -6,4 +6,4 @@ Disallow: /admin/
 
 Allow: /
 
-Sitemap: https://amplay.github.io/my-seo-portfolio/sitemap.xml
+Sitemap: https://amplay.github.io/my-lab-site/sitemap.xml
